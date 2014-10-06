@@ -1,4 +1,5 @@
 #TextMe, Maybe?
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ranleung/text_later_app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 "TextMe, Maybe?" is an app that enables people to schedule text messages in advance and have it delivered at a predetermined date and time. There are multiple use cases for this app from the ability to schedule a text greeting in advance for a loved one to setting up reminders for group gatherings to reminding an elderly family member to take their prescription medications regularly.
 
 Our goal was to develop a functional app that would be utilized across populations. If you've a use case that we have not yet identified, we'd love to hear about it!
