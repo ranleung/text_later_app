@@ -68,7 +68,7 @@ class SavedMsgsController < ApplicationController
 						ScheduleWorker.perform_at(delay.minutes.from_now, @text.id)
 					# end
 				else 
-					render plain: "What's wrong now? Something MUST Be FIXED!"
+					render plain: "What's wrong now? Something must Be fixed!"
 				end
 				# render plain: "Your message was sent!"
 				redirect_to user_saved_msgs_path(session_id)
